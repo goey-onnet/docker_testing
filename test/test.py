@@ -72,4 +72,4 @@ class Training(models.Model):
 
     @api.multi
     def training_test_action(self):
-        print ("this is action.........")
+        print ("this is action loh .........")
